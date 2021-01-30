@@ -1,3 +1,6 @@
+Pablo Alejandro Guatibonza Briceño 202014393 p.guatibonza@uniandes.edu.co
+Khaled Andres Correal Sosa 201920829 k.correal@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
