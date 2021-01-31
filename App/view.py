@@ -62,7 +62,7 @@ def loadTags():
 
 """
 Menu principal 
-version de prueba 2.0
+version de prueba 3.0
 """
 while True:
     printMenu()
