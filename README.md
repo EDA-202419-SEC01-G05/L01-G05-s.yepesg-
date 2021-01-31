@@ -6,7 +6,7 @@ Esta organización es una sugerencia que puede ser adaptada a  las necesidades y
 
 La estructura tiene los siguiente directorios y archivos:
 
--App
+-App  holis
 
 Este directorio se utiliza para los archivos python desarrollados para responder a los retos del curso. Acá se pueden tener todos los archivos python que se necesiten
 
