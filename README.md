@@ -1,5 +1,5 @@
 Pablo Alejandro Guatibonza Briceño 202014393 p.guatibonza@uniandes.edu.co
-Khaled Andres Correal Sosa 201920829 k.correal@uniandes.edu.co
+Kaled Andres Correal Sosa 201920829 k.correal@uniandes.edu.co
 
 #ISIS1225 - Estructura de un proyecto
 
