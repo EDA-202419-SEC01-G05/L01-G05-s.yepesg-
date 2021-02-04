@@ -3,9 +3,7 @@ Estudiante 1. Khaled Andres Correal Sosa 201920829 k.correal@uniandes.edu.co
 Estudiante 2. Pablo Alejandro Guatibonza Briceño 202014393 p.guatibonza@uniandes.edu.co
 
 =======
-Pablo Alejandro Guatibonza Briceño 202014393 p.guatibonza@uniandes.edu.co
-Kaled Andres Correal Sosa 201920829 k.correal@uniandes.edu.co
->>>>>>> 4c0150e82c181fd0332317d43f3f43fe0a7e2c41
+
 
 #ISIS1225 - Estructura de un proyecto
 
