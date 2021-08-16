@@ -60,13 +60,13 @@ def loadTags():
     return controller.loadTags('GoodReads/tags.csv')
 
 
-def loadBookTags():
+#def loadBookTags():
     """
     Carga los Book-Tags
     """
-    return controller.loadTags('GoodReads/book_tags.csv')
+    #return controller.loadTags('GoodReads/book_tags-small.csv')
     # Completar la funcion de def loadBooksTags(catalog) en controller.py
-    # Para cargar la información de los book-tags
+    # Para cargar la información de los book-tags -
 
 """
 Menu principal
@@ -84,10 +84,10 @@ while True:
         tags = loadTags()
         print('Total de tags cargados: ' + str(lt.size(tags)))
 
-    elif int(inputs[0]) == 3:
-        print("Cargando información de book-tags....")
-        booktags = loadBookTags()
-        print('Total de book-tags cargados: ' + str(lt.size(booktags)))
+    #elif int(inputs[0]) == 3:
+        #print("Cargando información de book-tags....")
+        #booktags = loadBookTags()
+        #print('Total de book-tags cargados: ' + str(lt.size(booktags)))
     else:
         sys.exit(0)
 sys.exit(0)
