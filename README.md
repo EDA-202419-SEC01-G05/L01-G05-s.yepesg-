@@ -29,5 +29,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Integrantes: Daniela Parra Martínez, d.parram2@uniandes.edu.co, 202013036
              Juliana Sofia Ahumada Arcos, j.ahumadaa@uniandes.edu.co, 201921471     
-             ***PRUEBA***   
+             
 
