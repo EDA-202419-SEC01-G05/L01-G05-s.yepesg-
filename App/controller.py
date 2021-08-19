@@ -52,8 +52,8 @@ def loadTags(filename):
     return tags
 
 
-def loadBooksTags(catalog):
+def loadBook_Tags(catalog):
     """
-    TODO futuro laboratorios
+    Carga los tags de los libros
     """
     pass
